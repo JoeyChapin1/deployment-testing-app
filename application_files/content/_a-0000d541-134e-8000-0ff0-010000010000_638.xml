@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
+<?xml version="1.0" encoding="UTF-8"?><contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
     <constant>
         <name>company_names</name>
         <uuid>_a-0000d541-134e-8000-0ff0-010000010000_638</uuid>
@@ -50,12 +49,12 @@
                 <el>SomeCompany</el>
                 <el>fedex</el>
                 <el>ford</el>
-                <el>ÉÁ1234</el>
+                <el>��1234</el>
                 <el>Houston Astros</el>
                 <el>hp</el>
-                <el>России</el>
+                <el>??????</el>
                 <el>impala</el>
-                <el>梁振英晚上到大圍和上水</el>
+                <el>???????????</el>
                 <el>johndeere</el>
                 <el>12345</el>
                 <el>Kansas City Royals</el>
@@ -150,4 +149,4 @@
             <groups/>
         </role>
     </roleMap>
-</contentHaul>
+</contentHaul><!--updated on 2016-09-21T15:08:59.999-->
